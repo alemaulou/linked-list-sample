@@ -14,23 +14,23 @@ By the end of this module, students will be able to build a Linked List class al
 Students will also practice creating Unit Tests for the Linked List instance methods that they build.
 
 ## Students should be able to...
-Implement various Linked List methods effectively, including:
+1. Implement various Linked List methods effectively, including:
 
-* **size** (returns how many elements exist within the Linked List)
-* **prepend** (add to beginning of list)
-* **append** (add element to end of a list)
-* **insert** (add element to a specific index of list)
-* **search** (search for value in list, if present, return ```True```)
-* **remove** (search for value in list, if present, remove, else, return ```None```)
-* **clear** (clear all elements within list)
+  * **size** (returns how many elements exist within the Linked List)
+  * **prepend** (add to beginning of list)
+  * **append** (add element to end of a list)
+  * **insert** (add element to a specific index of list)
+  * **search** (search for value in list, if present, return ```True```)
+  * **remove** (search for value in list, if present, remove, else, return ```None```)
+  * **clear** (clear all elements within list)
 
-Write and run unit tests to ensure that methods are working properly.
+2. Write and run unit tests to ensure that methods are working properly.
 
 
 ## Module Goals
-* To better understand the inner mechanics of Python Lists, and how data structures are implemented by building a Linked List from scratch.
-* To practice working with Linked Lists for technical interviews. Students should expect to be be quizzed about Linked Lists and other Abstract Data Types during coding interviews.
-* To build valuable unit testing skills so that students can better maintain their code by reducing bugs when implementing or changing class functionality.
+1. To better understand the inner mechanics of Python Lists, and how data structures are implemented by building a Linked List from scratch.
+2. To practice working with Linked Lists for technical interviews. Students should expect to be be quizzed about Linked Lists and other Abstract Data Types during coding interviews.
+3. To build valuable unit testing skills so that students can better maintain their code by reducing bugs when implementing or changing class functionality.
 
 ## Assignment
 1. **See:** Sketch (pencil and paper!), or utilize [VisuAlgo](https://visualgo.net/en/list?slide=1) or [USF's](https://www.cs.usfca.edu/~galles/visualization/) Linked List data structure visualization tools to create a Linked List diagram and submit it in the ``/imgs`` folder of your ``linked-list`` challenge assignment repo.
