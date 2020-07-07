@@ -35,8 +35,8 @@ Students will also practice creating Unit Tests for the Linked List instance met
 
 ## Assignment
 1. **See:** Sketch (pencil and paper!), or utilize [VisuAlgo](https://visualgo.net/en/list?slide=1) or [USF's](https://www.cs.usfca.edu/~galles/visualization/) Linked List data structure visualization tools to create a Linked List diagram and submit it in the ``/imgs`` folder of your ``linked-list`` challenge assignment repo.
-2. **Build:** Implement all methods for the Linked List class given in the [starter code](https://github.com/alemaulou/linked-list-sample/blob/master/linked-list/linkedlist.py) in the linked-list directory.
-3. **Test:** Finish building unit test cases from [starter code](https://github.com/alemaulou/linked-list-sample/blob/master/linked-list/linkedlist_test.py) and create at least **2** of your own.
+2. **Build:** Implement all methods for the Linked List class given in the [starter Linked List class code](https://github.com/alemaulou/linked-list-sample/blob/master/linked-list/linkedlist.py) in the linked-list directory.
+3. **Test:** Finish building unit test cases from the [starter unit test code](https://github.com/alemaulou/linked-list-sample/blob/master/linked-list/linkedlist_test.py) and create at least **2** of your own.
 
 ## Further Challenges
 1. Implement more LinkedList methods (see Java Linked List documentation [here](https://docs.oracle.com/javase/7/docs/api/java/util/LinkedList.html).
