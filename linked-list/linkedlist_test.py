@@ -2,70 +2,54 @@ import unittest
 from linkedlist import *
 
 class NodeTest(unittest.TestCase):
-    
-    """
-    Test initializing a Node.
-    """
+
     def test_init(self):
+        '''Test initializing a Node.'''
         node = Node(1)
         assert node.data == 1
         assert node.next is None
 
 class LinkedListTest(unittest.TestCase):
 
-    """
-    Test initializing a Linked List.
-    """
     def test_init(self):
+        '''Test initializing a Linked List.'''
         ll = LinkedList()
         assert ll.head is None
 
-    """
-    Test is_empty() Method.
-    """
     def test_is_empty(self):
+        '''Test is_empty() Method.'''
         ll = LinkedList()
         assert ll.head is None
 
-    """
-    Test size() Method.
-    """
     def test_size(self):
+        '''Test size() Method.'''
         return
 
-    """
-    Test prepend() Method.
-    """
     def test_prepend(self):
+        '''Test prepend() Method.'''
         return
 
-    """
-    Test search() Method.
-    """
+    def test_append(self):
+        '''Test append() Method.'''
+        return
+
     def test_search(self):
+        '''Test search() Method.'''
         return
 
-    """
-    Test insert() Method.
-    """
     def test_insert(self):
+        '''Test insert() Method.'''
         return
 
-    """
-    Test search() Method.
-    """
     def test_remove(self):
+        '''Test remove() Method.'''
         return
     
-    """
-    Test clear() Method.
-    """
     def test_clear(self):
+        '''Test clear() Method.'''
         return
-
-    """
-    Test any other methods you create!
-    """
+    
+    '''Test any other methods you create!'''
     
 if __name__ == '__main__':
     unittest.main()
