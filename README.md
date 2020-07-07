@@ -5,10 +5,11 @@ Please follow along with the interactive Pear Deck Slides during asynchronous cl
 
 
 **Synchronous Class Time**: [Pear Deck](https://app.peardeck.com/student/trhjjwzje)
+
 **Asynchronous Review**: [Google Slides](https://docs.google.com/presentation/d/1G7H4HC7RLqc4k3gYu5aq_Kj8PtOPntoF3wUiiqiajlI/edit?usp=sharing)
 
 ## Learning Outcome
-By the end of this module, students will be able to build a Linked List class along with several of it's key operations with Python. 
+By the end of this module, students will be able to build a Linked List class along with several of it's key methods with Python. 
 
 Students will also practice creating Unit Tests for the Linked List instance methods that they build.
 
@@ -25,7 +26,7 @@ Implement various Linked List methods effectively, including:
 
 
 ## Module Goals
-* To better understand the inner mechanics of Python Lists, and how data structures are implemented, by building a Linked List from scratch.
+* To better understand the inner mechanics of Python Lists, and how data structures are implemented by building a Linked List from scratch.
 * To practice working with Linked Lists for technical interviews. Students should expect to be be quizzed about Linked Lists and other Abstract Data Types during coding interviews.
 * To build valuable unit testing skills so that students can better maintain their code by reducing bugs when implementing or changing class functionality.
 
@@ -41,7 +42,10 @@ Implement various Linked List methods effectively, including:
 
 ## Resources
 
-### 
+### Linked Lists
+1. [Linked Lists vs. Static Arrays](https://www.geeksforgeeks.org/linked-list-vs-array/)
+2. [Linked Lists in Python: An Introduction](https://realpython.com/linked-lists-python)
+3. **Youtube**: [Python: Linked Lists Explained | implementation, insert, delete nodes](https://www.youtube.com/watch?v=Bd1L64clh34)
 
 ### Unit Testing in Python
 1. [Python Unit Testing Framework](https://docs.python.org/3.0/library/unittest.html)
