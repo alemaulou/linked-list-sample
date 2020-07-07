@@ -1,4 +1,4 @@
-# Linked List: Minute by Minute Lesson Plan
+# Linked List: Minute-by-Minute Lesson Plan
 Lesson plan based on allotted time box (**20 minutes**).
 
 |Minutes   | Activity  	|   Description |
