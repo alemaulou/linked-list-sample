@@ -1,7 +1,7 @@
 # Linked Lists
 
 ## Slides
-Please follow along with the interactive Pear Deck Slides during asynchronous class time, and review with Google Slides after class or if you are absent. 
+Please follow along with the interactive **Pear Deck Slides during synchronous class time**, and review with Google Slides after class or if you are absent. 
 
 
 **Synchronous Class Time**: [Pear Deck](https://app.peardeck.com/student/trhjjwzje)
