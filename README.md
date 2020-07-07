@@ -24,6 +24,8 @@ Implement various Linked List methods effectively, including:
 * **remove** (search for value in list, if present, remove, else, return ```None```)
 * **clear** (clear all elements within list)
 
+Write and run unit tests to ensure that methods are working properly.
+
 
 ## Module Goals
 * To better understand the inner mechanics of Python Lists, and how data structures are implemented by building a Linked List from scratch.
