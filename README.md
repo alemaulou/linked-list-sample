@@ -7,7 +7,7 @@ Please follow along with the **interactive Pear Deck** Slides during **synchrono
 
 **Asynchronous Review**: [Google Slides](https://docs.google.com/presentation/d/1G7H4HC7RLqc4k3gYu5aq_Kj8PtOPntoF3wUiiqiajlI/edit?usp=sharing)
 
-**Minute-by-minute Lesson Plan:** To view a minute-by-minute lesson plan, click [here](https://github.com/alemaulou/linked-list-sample/blob/master/minute.md). 
+**Minute-by-Minute Lesson Plan:** To view a minute-by-minute lesson plan, click [here](https://github.com/alemaulou/linked-list-sample/blob/master/minute.md). 
 
 ## Learning Outcome
 By the end of this module, students will be able to build a Linked List class along with several of it's key methods with Python. 
