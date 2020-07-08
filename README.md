@@ -3,7 +3,7 @@
 ## Slides
 Please follow along with the **interactive Pear Deck** Slides during **synchronous** class time, and review with Google Slides after class or if you are absent. 
 
-**Synchronous Class Time**: [Pear Deck](https://app.peardeck.com/student/tmmfgxdmk)
+**Synchronous Class Time**: [Pear Deck](https://app.peardeck.com/student/ttmmxqzgn)
 
 **Asynchronous Review**: [Google Slides](https://docs.google.com/presentation/d/1G7H4HC7RLqc4k3gYu5aq_Kj8PtOPntoF3wUiiqiajlI/edit?usp=sharing)
 
