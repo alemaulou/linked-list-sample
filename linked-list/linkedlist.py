@@ -53,7 +53,7 @@ class LinkedList:
     def size(self):
         '''
         Return the number of elements in the list.
-        Time Complexity: O(n) Linear Time
+        Time Complexity: O(1) Constant Time
         '''
 
     def prepend(self, data):
