@@ -10,9 +10,7 @@ Please follow along with the **interactive Pear Deck** Slides during **synchrono
 **Minute-by-Minute Lesson Plan:** To view a minute-by-minute lesson plan, click [here](https://github.com/alemaulou/linked-list-sample/blob/master/minute.md). 
 
 ## Learning Outcomes
-By the end of this module, students will be able to build a Linked List class along with several of it's key methods with Python. 
-
-Students will also practice creating Unit Tests for the Linked List instance methods that they build.
+By the end of this 20 minute lesson, students will be able to build a Linked List class along with its append and prepend methods. 
 
 ## Students should be able to...
 1. Implement various Linked List methods effectively, including:
